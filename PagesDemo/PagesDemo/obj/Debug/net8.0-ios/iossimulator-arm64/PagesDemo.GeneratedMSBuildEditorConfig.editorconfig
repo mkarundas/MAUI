@@ -40,6 +40,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Conten
 build_metadata.AdditionalFiles.TargetPath = Resources/ContentPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/ContentPageDemo.xaml
 
+[/Users/mkarundas/Documents/Projects/MAUI/MAUI/PagesDemo/PagesDemo/Resources/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/FlyoutPageDemo.xaml
+
 [/Users/mkarundas/Documents/Projects/MAUI/MAUI/PagesDemo/PagesDemo/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.Colors.xaml

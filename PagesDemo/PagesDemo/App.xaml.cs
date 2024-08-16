@@ -14,6 +14,6 @@ public partial class App : Application
             BarTextColor = Colors.White
         };
 
-        MainPage = navPage;
+        MainPage = new FlyoutPageDemo();
 	}
 }
