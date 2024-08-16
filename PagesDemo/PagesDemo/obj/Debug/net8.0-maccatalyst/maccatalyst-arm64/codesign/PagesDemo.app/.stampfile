@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/mkarundas/Documents/Projects/MAUI/MAUI/PagesDemo/PagesDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/mkarundas/Documents/Projects/MAUI/MAUI/PagesDemo/PagesDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/PagesDemo.app
